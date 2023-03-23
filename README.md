@@ -1,5 +1,8 @@
 ## Pac-Man-go Feature
+<<<<<<< HEAD
 ![avatar](./pacman-picture.jpg)
+=======
+>>>>>>> refs/remotes/origin/main
 # Input and Output
 	Load the Maze
 	Printing to the Screen
@@ -84,5 +87,8 @@
 	Avoiding Race Conditions
   - Use a timer 
   - When and how to use a Mutex lock
+<<<<<<< HEAD
 
 ![avatar](./pacman.png)
+=======
+>>>>>>> refs/remotes/origin/main
